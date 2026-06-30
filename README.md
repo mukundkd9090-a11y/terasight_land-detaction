@@ -1,3 +1,3 @@
 # terasight_land-detaction
 This is my first  Git repository
-Author - Mukund Das
+Author - Mukund Kumar Das
